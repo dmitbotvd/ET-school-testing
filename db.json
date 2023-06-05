@@ -1,0 +1,112 @@
+{
+  "users": [
+
+  ],
+  "shops": [
+    {
+      "id": "1",
+      "name": "McDonald’s",
+      "logo": "./assets/logos/McDonalds-Logo.png",
+      "products": [
+        {
+          "id": 1,
+          "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0005_BigMac_832x472:1-4-product-tile-desktop",
+          "name": "Big Mac",
+          "price": "120"
+        },
+        {
+          "id": 2,
+          "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202006_0003_Cheeseburger_StraightBun_832x472:1-4-product-tile-desktop",
+          "name": "Cheeseburger",
+          "price": "90"
+        },
+        {
+          "id": 3,
+          "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_0004_DoubleCheeseburger_Alt_832x472:1-4-product-tile-desktop",
+          "name": "Double Cheeseburger",
+          "price": "110"
+        },
+        {
+          "id": 4,
+          "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202006_0001_Hamburger_Alt_832x472:1-4-product-tile-desktop",
+          "name": "Hamburger: The Classic McDonald's Burger",
+          "price": "100"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "KFC",
+      "logo": "./assets/logos/KFC_logo.png",
+      "products": [
+        {
+          "id": 5,
+          "image": "https://www.kfc-ukraine.com/admin/files/medium/medium_4184.png",
+          "name": "CHEFBURGER",
+          "price": "90"
+        },
+        {
+          "id": 6,
+          "image": "https://www.kfc-ukraine.com/admin/files/medium/medium_4185.png",
+          "name": "DE LUXE CHEESEBURGER",
+          "price": "105"
+        },
+        {
+          "id": 7,
+          "image": "https://www.kfc-ukraine.com/admin/files/medium/medium_4186.png",
+          "name": "CLASSIC",
+          "price": "90"
+        },
+        {
+          "id": 8,
+          "image": "https://www.kfc-ukraine.com/admin/files/medium/medium_4061.jpg",
+          "name": "CHEESEBURGER",
+          "price": "70"
+        },
+        {
+          "id": 9,
+          "image": "https://www.kfc-ukraine.com/admin/files/medium/medium_4127.jpg",
+          "name": "DOUBLE CHICKEN SPICY",
+          "price": "125"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Domino's",
+      "logo": "./assets/logos/blue-logo.webp",
+      "products": [
+        {
+          "id": 10,
+          "image": "https://dominos.ua/_next/image?url=https%3A%2F%2Fmedia-v3.dominos.ua%2FProducts%2FPitsa%2FPitsy%2Fdiabolo-pizzapieces.webp&w=480&q=75",
+          "name": "Pizza Diablo",
+          "price": "310"
+        },
+        {
+          "id": 11,
+          "image": "https://dominos.ua/_next/image?url=https%3A%2F%2Fmedia-v3.dominos.ua%2FProducts%2FPitsa%2FPitsy%2Fchorizo-pizzapieces.webp&w=480&q=75",
+          "name": "Pizza Chorizo",
+          "price": "296"
+        },
+        {
+          "id": 12,
+          "image": "https://dominos.ua/_next/image?url=https%3A%2F%2Fmedia-v3.dominos.ua%2FProducts%2FPitsa%2FPitsy%2Fbeef-pizzapieces.webp&w=480&q=75",
+          "name": "Pizza with veal",
+          "price": "291"
+        },
+        {
+          "id": 13,
+          "image": "https://dominos.ua/_next/image?url=https%3A%2F%2Fmedia-v3.dominos.ua%2FProducts%2FPitsa%2FPitsy%2Fturkey-pizzapieces.webp&w=480&q=75",
+          "name": "Pizza with turkey",
+          "price": "301"
+        },
+        {
+          "id": 14,
+          "image": "https://dominos.ua/_next/image?url=https%3A%2F%2Fmedia-v3.dominos.ua%2FProducts%2Fproduct-image-pizza-beef-chips-960x619pix.webp&w=480&q=75",
+          "name": "Pizza Beef & Chips",
+          "price": "301"
+        }
+      ]
+    }
+  ]
+}
